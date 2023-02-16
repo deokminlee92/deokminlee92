@@ -1,5 +1,8 @@
-Deokmin LEE
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+Deokmin LEE </br>
+
+<img src="https://img.shields.io/badge/Notion-3DDC84?style=flat-square&logo=Android&logoColor=lightgrey"/>
+<img src="https://img.shields.io/badge/deokmin.lee92@gmail.com-3DDC84?style=flat-square&logo=Android&logoColor=red"/>
+<img src="https://img.shields.io/badge/Linkedin-3DDC84?style=flat-square&logo=Android&logoColor=blue"/>
 
 ### Hi there 👋
 
