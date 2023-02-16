@@ -1,7 +1,7 @@
 <img src="https://img.shields.io/badge/Notion-3DDC84?style=flat-square&logo=Android&logoColor=lightgrey&color=yello"/> <img src="https://img.shields.io/badge/deokmin.lee92@gmail.com-3DDC84?style=flat-square&logo=Android&logoColor=red&color=red"/> <img src="https://img.shields.io/badge/Linkedin-3DDC84?style=flat-square&logo=Android&logoColor=blue&color=blue"/>
 
 ### Hi there 👋
-I'm a junior **Front-end Developer**. 
+I'm a junior **Front-end Developer**. <br/>
 I'm currently trying to develop something by myself but hoping to work as a team in a company as soons as possible
 
 ### Skills 
