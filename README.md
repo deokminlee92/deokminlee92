@@ -1,6 +1,6 @@
 Deokmin LEE </br>
 
-<img src="https://img.shields.io/badge/Notion-3DDC84?style=flat-square&logo=Android&logoColor=lightgrey&color=blue"/> <img src="https://img.shields.io/badge/deokmin.lee92@gmail.com-3DDC84?style=flat-square&logo=Android&logoColor=red"/> <img src="https://img.shields.io/badge/Linkedin-3DDC84?style=flat-square&logo=Android&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Notion-3DDC84?style=flat-square&logo=Android&logoColor=lightgrey&color=yello"/> <img src="https://img.shields.io/badge/deokmin.lee92@gmail.com-3DDC84?style=flat-square&logo=Android&logoColor=red&color=red"/> <img src="https://img.shields.io/badge/Linkedin-3DDC84?style=flat-square&logo=Android&logoColor=blue&color=blue"/>
 
 ### Hi there 👋
 
