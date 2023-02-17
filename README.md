@@ -1,10 +1,6 @@
 ### 🤞 Nice way to meet me
 <p>
-  <a href="https://blog.cowkite.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=Notion&logoColor=white"/></a>
-  
-  <a href="https://www.linkedin.com/in/deokminlee92/" target="_blank"><img src="https://img.shields.io/badge/Deokmin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  
-  <a href="mailto:deokmin.lee92@gmail.com" target="_blank"><img src="https://img.shields.io/badge/deokmin.lee92@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://blog.cowkite.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=Notion&logoColor=white"/></a>  <a href="https://www.linkedin.com/in/deokminlee92/" target="_blank"><img src="https://img.shields.io/badge/Deokmin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>  <a href="mailto:deokmin.lee92@gmail.com" target="_blank"><img src="https://img.shields.io/badge/deokmin.lee92@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <p>
