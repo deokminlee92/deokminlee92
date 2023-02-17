@@ -4,13 +4,11 @@
 </p>
 
 <p>
-  👋&nbsp; Hi there! I'm <b>Front end developer</b> skilled in API, WEB, and APP.🚀<br/>
-  I'm currently looking for a my first job as a front-end developer ! <br/>
-  At present, I have been interested in  
-  I have been interested in creating Graph-QL APIs with Quarkus and a web screen with React.<br/>
-  Sometimes I develop cross-platforms mobile app like ReactNative or Flutter. (but prefer native💖)<br/><br/>
-  I enjoy hiking, swimming, dive and surf. ⛰ 🏄<br/>
-  I hope to develop every beautiful things. ✨ <br/><br/>
+  👋&nbsp; Hi there! I'm <b>Front end developer</b> skilled in Web and API 🚀<br/>
+  At present, I have been interested in creating XXXXXXX <br/>
+  Sometimes I develop XXX <br/><br/>
+  I enjoy running, football, watching movies✨ <br/><br/>
+  I'm currently looking for a new challenge ✨ <br/><br/>
 </p>
 
 
