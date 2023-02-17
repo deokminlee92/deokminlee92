@@ -5,9 +5,8 @@
 
 <p>
   👋&nbsp; Hi there! I'm <b>Front end developer</b> skilled in Web and API 🚀<br/>
-  At present, I have been interested in creating XXXXXXX <br/>
-  Sometimes I develop XXX <br/><br/>
-  I enjoy running, football, watching movies✨ <br/><br/>
+  At present, I have been interested in creating XXXXXXX 무엇을 개발 중인지 ? <br/>
+  Sometimes I develop XXX 왜 좋아하는지에 대한 답?? <br/><br/>
   I'm currently looking for a new challenge ✨ <br/><br/>
 </p>
 
