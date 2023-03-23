@@ -6,7 +6,7 @@
 <p>
   👋&nbsp; Hi there! I'm <b>Front end developer</b> skilled in Web and API 🚀<br/>
   I'm currently looking for a new challenge as a Front end developer in Brussels ✨ <br/>
-  Please check my resume on <a href="deokminlee92.github.io/resume/><br/>
+  Please check my resume on ... <br/>
 </p>
 
 
