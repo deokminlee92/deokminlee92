@@ -4,8 +4,8 @@
 </p>
 
 <p>
-  👋&nbsp; Hi there! I'm <b>Front end developer</b> skilled in Web and API 🚀<br/>
-  I'm currently looking for a new challenge as a Front end developer in Brussels ✨ <br/>
+  👋&nbsp; Hi there! I'm <b>Front end developer</b> based in Brussles, Belgium 🚀<br/>
+  I'm currently looking for a new challenge as a Front end developer as an intership or permenant job ✨ <br/>
   Please check my resume on ... <br/>
 </p>
 
