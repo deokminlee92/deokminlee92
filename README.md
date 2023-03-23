@@ -5,8 +5,8 @@
 
 <p>
   👋&nbsp; Hi there! I'm <b>Front end developer</b> skilled in Web and API 🚀<br/>
-  At present, I have been interested in creating XXXXXXX 무엇을 개발 중인지 ? <br/>
-  I'm currently looking for a new challenge as a Front end developer in Brussels ✨ <br/><br/>
+  I'm currently looking for a new challenge as a Front end developer in Brussels ✨ <br/>
+  Please check my resume on <a href="deokminlee92.github.io/resume/><br/>
 </p>
 
 
